@@ -291,3 +291,4 @@ def flattened(lists):
   return results
 
 print (flattened(n))  # This will print [1,3,4,5,6,7,8,9]
+print (flattened(n))  # This will print [1,3,4,5,6,7,8,9]

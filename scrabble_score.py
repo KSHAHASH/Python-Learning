@@ -15,7 +15,7 @@ def scrabble_score(word):
     return score_scrabble
 
 print(scrabble_score("aNiMal"))
-
+print(scrabble_score("aNiMal"))
 
 
 

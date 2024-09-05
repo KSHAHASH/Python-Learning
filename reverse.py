@@ -5,4 +5,4 @@ def reversing_string(text):
         word = word + text[length_of_string]
         length_of_string-=1
     return word
-print(reversing_string("KATHMANDU"))
+print(reversing_string("KATHMANDUU"))

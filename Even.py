@@ -11,9 +11,6 @@ def is_prime(x):
 print(is_prime(13))
 print(is_prime(10))
 
-def reader(text):
-    for item in text:
-
 
 
 

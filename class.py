@@ -28,6 +28,7 @@ class Car:
 
 vehicle_1 = Car("Honda", "Accord", 2020)
 vehicle_1.get_info()
+print(vehicle_1.model)
 
 
 

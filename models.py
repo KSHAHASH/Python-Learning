@@ -1,3 +1,4 @@
+from sympy.codegen import Print
 from transformers import pipeline
 
 # Create the pipeline object for automatic speech recognition
@@ -8,5 +9,7 @@ result = asr_pipeline("https://huggingface.co/datasets/Narsil/asr_dummy/resolve/
 
 # Print the result
 print(result)
+print(result)
+
 
 

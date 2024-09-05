@@ -7,5 +7,5 @@ def anti_vowel(text):
         else:
             print(f"Printed character {char}")
     return  "".join(words.split()) #if you want to join the string
-print(anti_vowel("i am from nepal"))
+print(anti_vowel("i am from neEpal"))
 

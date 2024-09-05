@@ -17,3 +17,4 @@ print(my_list)
 # Add your code below!
 backwards = my_list[::-1]
 print(backwards)
+print(backwards)

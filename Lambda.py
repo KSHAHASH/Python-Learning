@@ -22,3 +22,4 @@ garbled = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXX
 
 message = "".join(filter(lambda x: x !='X', garbled))
 print(message)
+print(message)

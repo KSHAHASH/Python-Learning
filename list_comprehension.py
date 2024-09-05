@@ -21,3 +21,4 @@ def appender(value_1):
             result.append(item_1)
     return result
 print(appender(values))
+print(appender(values))

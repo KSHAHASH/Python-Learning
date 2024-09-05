@@ -1,3 +1,4 @@
+#there are some python 2 syntax which needs to be upgraded to the python 3
 from random import randint
 
 board = []
